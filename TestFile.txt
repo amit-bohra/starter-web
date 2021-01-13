@@ -1,0 +1,1 @@
+For remote server edit /root/.ssh/authorized_keys or /root/.ssh/authorized_keys2 file and remove public key. This will delete login from home computer into your server. Finally, you can always delete user from your system using the pw on FreeBSD or userdel on Linux / UNIX.
